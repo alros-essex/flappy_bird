@@ -1,1 +1,3 @@
-# flappy_bird
+# flappy bird 🦤
+
+simple implementatio in Python with pygame
